@@ -1,0 +1,25 @@
+[
+{
+  "country": "KE", 
+  "city": "Nairobi",
+  "description": "cloudy",
+  "base": "stations",
+  "id": "12345"
+},
+{
+    "country": "KE", 
+    "city": "Nairobi",
+    "description": "cloudy",
+    "base": "stations",
+    "id": "12346"  
+  },
+  {
+    "country": "KE", 
+    "city": "kisumu",
+    "description": "sunny",
+    "base": "stations",
+    "id": "123458",
+    "cod": "200"  
+  }
+]
+
